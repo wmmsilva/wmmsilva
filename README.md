@@ -1,0 +1,6 @@
+- 👋 Hi, I'm @wmmsilva
+- 👀 I am interested in learning more and more about programming, as I am a member of the area in career transition.
+- 🌱 I am currently studying Computer Engineering at the Virtual University of the State of São Paulo.
+- 💞️ I'm looking to collaborate in areas related to software development and web applications, Python and HTML.
+- 📫 How to reach me:
+- Linkedin - https://www.linkedin.com/in/william-melo-mendes-da-silva-02b3737b/
